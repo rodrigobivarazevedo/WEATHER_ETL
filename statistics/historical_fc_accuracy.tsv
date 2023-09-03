@@ -1,0 +1,9 @@
+year month day obs_tmp fc_temp accuracy	accuracy_range
+2023	09	01		26		22		-4		poor
+2023	09	01		25		22		-3		fair
+2023	09	01		25		22		-3		fair
+2023	09	01		25		22		-1		excellent
+2023	09	01		25		22		-4		fair
+2023	09	01		25		22		2		good
+2023	09	01		25		22		-2		fair
+2023	09	01		25		22		-3		poor
